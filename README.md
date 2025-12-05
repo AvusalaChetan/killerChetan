@@ -131,20 +131,6 @@ Malla Reddy Institute of Technology and Science
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=killerChetan&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=killerChetan&icon=0&color=6" alt="Profile Views" />
-</div>
-
----
-
 <div align="center">
   <b>⭐️ From <a href="https://github.com/killerChetan">Avusala Chetan</a></b>
 </div>
