@@ -113,7 +113,7 @@ Malla Reddy Institute of Technology and Science
   - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/avusala-chetan-06b73927b)
   - 🌐 Portfolio: [View my work](https://chetan-portfolio-web.netlify.app/)
 
----
+<!-- ---
 
 ## 🔥 GitHub Contribution Graph
 
@@ -121,7 +121,7 @@ Malla Reddy Institute of Technology and Science
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=killerChetan&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
----
+--- -->
 
 ## 💡 Random Dev Quote
 
